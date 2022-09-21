@@ -7,7 +7,7 @@ SBT is an achronym for **Simple Build Tool**. It is nothing but a tool to build 
 
 # How to build a scala project using SBT? 
 
-To build a Scala Project using SBT, we dont really need to do a lot of things. We can build a project by just doing the following steps - 
+To build a Scala Project using SBT, we don't really need to do a lot of things. We can build a project by just doing the following steps - 
 
 1. **cd** into the folder where you want to create a new project. 
 2. Type **sbt scala3/scala3.g8** and hit Enter.
