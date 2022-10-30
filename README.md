@@ -18,7 +18,7 @@ To build a Scala Project using SBT, we don't really need to do a lot of things. 
 3. Type **sbt scala3/scala3.g8** and hit Enter.
    
    ```
-   sbt scala3/scala3.g8
+   sbt new scala3/scala3.g8
    ```
    
 5. When you run the above command, it will wait for you to enter the name of the project. Type in the name of the project and hit **Enter**.
